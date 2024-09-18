@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(177, 177, 247);
+    font-family: 'Times New Roman', Times, serif;
+}
+h1 {
+    color:seagreen;
+    text-align: center;
+    font-weight: bold; 
+}
+h2 {
+    color:rgb(94, 138, 113)
+}
