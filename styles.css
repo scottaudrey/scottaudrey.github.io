@@ -10,3 +10,23 @@ h1 {
 h2 {
     color:rgb(94, 138, 113)
 }
+
+.projects { 
+    display:flex;  /* */
+    flex-wrap:wrap; 
+} 
+.project {
+width: 30%;
+margin: 10px;
+padding: 20px 10px;
+background: #F7B1D4;
+border-radius: 25%;
+}
+
+
+/*
+color options:
+#F7B1D4 pink
+#F7F7B1 yellow
+#B1F7D4 green
+*/
